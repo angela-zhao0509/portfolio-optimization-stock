@@ -1,1 +1,1 @@
-# portfolio-optimization-stock
+# Stock Portfolio Optimization and Financial Machine Learning
